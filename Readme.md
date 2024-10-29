@@ -1,6 +1,4 @@
-Here’s a sample README file for your `TutoringMarketplace` smart contract. You can modify it further based on your specific requirements or preferences.
 
----
 
 # Tutoring Marketplace Smart Contract
 
