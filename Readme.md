@@ -55,33 +55,9 @@ The **Tutoring Marketplace** aims to create a decentralized platform that connec
 ### 7. **Analytics Dashboard**
    - Implement an analytics dashboard for tutors to track their performance, session statistics, and revenue, helping them to optimize their offerings.
 
-## Getting Started
-
-To deploy and test this smart contract, follow these steps:
-
-1. **Install Dependencies**: Ensure you have the necessary dependencies installed (e.g., Move SDK, Aptos framework).
-2. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/tutoring-marketplace.git
-   ```
-3. **Navigate to the Project Directory**:
-   ```bash
-   cd tutoring-marketplace
-   ```
-4. **Build the Project**:
-   ```bash
-   move build
-   ```
-5. **Deploy the Smart Contract**: Follow the instructions in the Aptos documentation for deploying Move smart contracts.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Feel free to adjust any section to better fit your project's specific goals and details!
